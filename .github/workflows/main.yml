@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - uses: actions/checkout@v2 # stops the file path from repeating the folder name
+    
     - name: Execute Python Script
       run: python flu.py
       
