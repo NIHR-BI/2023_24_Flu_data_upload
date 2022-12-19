@@ -13,6 +13,11 @@ jobs:
     steps:
     - uses: actions/checkout@v2 # stops the file path from repeating the folder name
     
+    - name: Install Python dependencies
+      uses: py-actions/py-dependency-install@v2
+      with:
+        path: "requirements.txt"
+        
     - name: Execute Python Script
       run: python flu.py
       
