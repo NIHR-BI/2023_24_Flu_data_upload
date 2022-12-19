@@ -1,0 +1,33 @@
+name: flu_england
+
+on:
+  schedule:
+  - cron: "0 1 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2 # stops the file path from repeating the folder name
+    
+    - name: Install Python dependencies
+      uses: py-actions/py-dependency-install@v2
+      with:
+        path: "requirements.txt"
+        
+    - name: Execute Python Script
+      run: python flu_england.py
+      
+    - name: Commit files
+      run: |
+        git config --local user.name SallySamNIHR
+        git config --local user.email "sally.sam@nihr.ac.uk"
+        git add -all
+        git commit -am "GH ACTION Headlines $(date)"|
+        git push origin main
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
