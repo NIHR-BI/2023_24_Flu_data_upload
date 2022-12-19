@@ -1,0 +1,24 @@
+name: Scheduled Script
+
+on:
+  schedule:
+  - cron: "0 1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Execute Python Script
+      run: python flu.py
+    - name: Commit files
+      run: |
+        git config --local user.name SallySamNIHR
+        git config --local user.email "sally.sam@nihr.ac.uk"
+        git add -all
+        git commit -am "GH ACTION Headlines $(date)"|
+        git push origin main
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
+      
