@@ -23,9 +23,9 @@ jobs:
       
     - name: Commit files
       run: |
-        git config --local user.name SallySamNIHR
-        git config --local user.email "sally.sam@nihr.ac.uk"
-        git add -all
+        git config user.name SallySamNIHR
+        git config user.email "sally.sam@nihr.ac.uk"
+        git add -A
         git commit -am "GH ACTION Headlines $(date)"|
         git push origin main
       env:
