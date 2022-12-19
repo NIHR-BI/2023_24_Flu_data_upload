@@ -1,4 +1,4 @@
-name: Scheduled Script
+name: flu_wales
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
         path: "requirements.txt"
         
     - name: Execute Python Script
-      run: python flu.py
+      run: python flu_wales.py
       
     - name: Commit files
       run: |
