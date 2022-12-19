@@ -3,6 +3,8 @@ name: Scheduled Script
 on:
   schedule:
   - cron: "0 1 * * *"
+  
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,6 +13,7 @@ jobs:
     steps:
     - name: Execute Python Script
       run: python flu.py
+      
     - name: Commit files
       run: |
         git config --local user.name SallySamNIHR
