@@ -6,12 +6,12 @@ a = pd.read_excel(url)
 
 # a.to_excel('test.xlsx')
 
-out_path = "test.xlsx"
+# out_path = "test.xlsx"
 
 # out_path = "/Users/ssam/PycharmProjects/flu/test/test.xlsx"
 
-with pd.ExcelWriter(
-        path=out_path,
-        mode="w",
-        engine="xlsxwriter") as writer:
-    a.to_excel(writer, sheet_name="Sheet1")
+# with pd.ExcelWriter(
+#         path=out_path,
+#         mode="w",
+#         engine="xlsxwriter") as writer:
+#     a.to_excel(writer, sheet_name="Sheet1")
