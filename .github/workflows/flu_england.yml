@@ -22,12 +22,14 @@ jobs:
       run: python flu_england.py
       
     - name: Commit files
-      run: |
-        git config user.name SallySamNIHR
-        git config user.email "sally.sam@nihr.ac.uk"
+      run: |      
+        git config user.name "${GITHUB_ACTOR}"
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add -A
-        git commit -am "GH ACTION Headlines $(date)"|
-        git push origin main
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0  
+        git push
+          
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
