@@ -85,4 +85,5 @@ if __name__ == '__main__':
 
     clean_data.columns = ['region', 'trust_code', 'trust_name', 'date', 'measure', 'value']
 
-    clean_data.to_csv('england_flu_data.csv', index=False)
+    with open('england_flu_data.csv', 'w+') as f:
+        f.write(clean_data.to_csv(index=False))
