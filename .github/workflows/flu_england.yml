@@ -19,8 +19,6 @@ jobs:
         path: "requirements.txt"
         
     - name: Execute Python Script
-      env:
-          ACCOUNT_INFO: ${{ secrets.CLIENT_SECRETS }}
       run: python flu_england.py
       
     - name: Commit files
