@@ -28,6 +28,6 @@ jobs:
         git pull
         git stash apply
         git add england_flu_data.csv
-        git commit -am "Latest data: ${timestamp}" || exit 0  
+        git commit -am "Latest data: ${timestamp}"
         git push origin master
         
