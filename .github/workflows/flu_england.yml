@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2 # stops the file path from repeating the folder name
+    - uses: actions/checkout@v3 # stops the file path from repeating the folder name
     
     - name: Install Python dependencies
       uses: py-actions/py-dependency-install@v2
@@ -25,10 +25,9 @@ jobs:
       run: |      
         git config user.name "${GITHUB_ACTOR}"
         git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git init
-        git add * :/
         timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0  
+        git add flu_england.csv
+        git commit -am "Latest data: ${timestamp}" || exit 0  
         git push
           
       env:
