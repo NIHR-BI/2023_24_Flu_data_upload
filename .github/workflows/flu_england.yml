@@ -24,6 +24,9 @@ jobs:
     - name: Commit files
       run: |      
         timestamp=$(date -u)
+        git stash
+        git pull
+        git stash apply
         git add england_flu_data.csv
         git commit -am "Latest data: ${timestamp}" || exit 0  
         git push origin master
