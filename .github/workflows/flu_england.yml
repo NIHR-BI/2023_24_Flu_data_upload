@@ -28,7 +28,7 @@ jobs:
         timestamp=$(date -u)
         git add flu_england.csv
         git commit -am "Latest data: ${timestamp}" || exit 0  
-        git push
+        git push origin master
           
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
