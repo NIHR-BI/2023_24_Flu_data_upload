@@ -23,8 +23,6 @@ jobs:
       
     - name: Commit files
       run: |      
-        git config user.name "${GITHUB_ACTOR}"
-        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         timestamp=$(date -u)
         git add england_flu_data.csv
         git commit -am "Latest data: ${timestamp}" || exit 0  
