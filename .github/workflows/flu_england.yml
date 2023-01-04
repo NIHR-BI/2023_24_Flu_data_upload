@@ -30,7 +30,4 @@ jobs:
         git add england_flu_data.csv
         git commit -am "Latest data: ${timestamp}" || exit 0  
         git push origin master
-          
-      env:
-        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-        username: github-actions
+        
