@@ -1,4 +1,4 @@
-name: england2
+name: flu_england
 
 on:
   push:
