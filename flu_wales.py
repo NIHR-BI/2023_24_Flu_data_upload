@@ -39,7 +39,28 @@ def clean(df: object, sheet_names: list) -> object:
     return df
 
 
+def wales_flu_retrieve_published_date():
+    data = requests.get(url="https://www2.nphs.wales.nhs.uk/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/023d7e78efdbcc3980258917005779d4?OpenDocument&AutoFramed")
+    data_soup = BeautifulSoup(data.content, 'html.parser')
+
+    text = ''
+    # concat all <font> references
+    for font in data_soup.find_all("font"):
+        text += ' '
+        text += font.text
+    
+    # find the text immediately after the text below
+    find_text = 'Published on this site :  '
+    start = len(find_text) + text.find(find_text)
+    length = 10
+    end = start + length
+
+    date = text[start: end]
+    return date
+
+
 if __name__ == '__main__':
+    # save data
     sheets = ["Flu com acq cases adm to hosp", "Flu com acq cases adm to CC",
               "Flu hosp cases by acq", "Flu hosp cases adm to CC by acq",
               "Flu hosp IP cases", "Flu CC IP cases"]
@@ -50,3 +71,7 @@ if __name__ == '__main__':
         f.write(clean_data.to_csv(index=False))
 
     # print(1404*3 + 117*3 + 1404*3 + 1404 + 117 + 117)
+    
+    # save published date
+    with open('wales_flu_published_date.csv', 'w+') as f:
+        f.write(wales_flu_retrieve_published_date())
