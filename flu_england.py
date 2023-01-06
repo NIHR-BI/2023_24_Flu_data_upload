@@ -67,7 +67,7 @@ if __name__ == '__main__':
         io="https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/01/UEC-Daily-SitRep-Web-File-Timeseries.xlsx",
         sheet_name="Flu",
         header=None,
-#        usecols="B:BI",
+        usecols="B:XFD",
         skiprows=13)
 
     clean_data = clean(df=data,
