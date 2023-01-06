@@ -63,7 +63,8 @@ def clean(df: object, na_col1: int, date_row: int, date_col_start: int, columns_
 
 if __name__ == '__main__':
     data = pd.read_excel(
-        io="https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/12/UEC-Daily-SitRep-Web-File-Timeseries-2.xlsx",
+#        io="https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/12/UEC-Daily-SitRep-Web-File-Timeseries-2.xlsx",
+        io="https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/01/UEC-Daily-SitRep-Web-File-Timeseries.xlsx",
         sheet_name="Flu",
         header=None,
         usecols="B:BI",
