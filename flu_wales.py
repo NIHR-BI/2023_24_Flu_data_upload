@@ -1,4 +1,6 @@
 import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 
 
 def drop_nas_rows_in_col(df, col):
