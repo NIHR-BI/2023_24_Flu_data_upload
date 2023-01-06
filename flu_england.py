@@ -1,5 +1,20 @@
 import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 
+
+def retrieve_first_url(webpage, text_in_url):
+    data = requests.get(url=webpage)
+    data_soup = BeautifulSoup(data.content, 'html.parser')
+
+    # find all <a href> references
+    for link in data_soup.find_all("a"):
+        # Retrieve the first URL with the text bellow
+        if link['href'].find(text_in_url) >-1 : 
+            # Use this link to scrape
+            linkToScrape = link['href']
+            return linkToScrape
+        
 
 def is_even(value):
     if value % 2 == 0:
@@ -44,6 +59,7 @@ def set_index_cols(df, index_col_names):
 def remove_cols_containing_text(df, col, text):
     return df[df[col] != text]
 
+
 def clean(df: object, na_col1: int, date_row: int, date_col_start: int, columns_to_remove: int,
           header_rows: list, index_col_names: list, na_col2: int,
           remove_col1: int, remove_text1: str,
@@ -62,9 +78,11 @@ def clean(df: object, na_col1: int, date_row: int, date_col_start: int, columns_
 
 
 if __name__ == '__main__':
+    url_to_use = retrieve_first_url("https://www.england.nhs.uk/statistics/statistical-work-areas/uec-sitrep/urgent-and-emergency-care-daily-situation-reports-2022-23/",
+                                    "UEC-Daily-SitRep")
+    
     data = pd.read_excel(
-#        io="https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2022/12/UEC-Daily-SitRep-Web-File-Timeseries-2.xlsx",
-        io="https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2023/01/UEC-Daily-SitRep-Web-File-Timeseries.xlsx",
+        io=url_to_use,
         sheet_name="Flu",
         header=None,
         usecols="B:XFD",
