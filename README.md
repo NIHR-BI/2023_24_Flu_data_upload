@@ -29,5 +29,5 @@ schedule:
 
 - Data will only be saved in GitHub if it has changed.
 - The England website says that the data refreshes every Thursday at 9:30am. The trigger in GitHub is therefore set to 10:00am everyday, in case there are delays.
-- The Wales website says that the data is refreshed weekly but it is not clear when exactly this happens. The trigger in GitHub is therefore set to 01:00am everyday.
+- The Wales website says that the data is refreshed weekly but it is not clear when exactly this happens. The trigger in GitHub is therefore set to 10:00am everyday.
  
