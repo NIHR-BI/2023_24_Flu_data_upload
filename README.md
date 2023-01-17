@@ -4,10 +4,10 @@ Repeated action to clean and save flu data for Wales and England
 
 ## Data sources
 
-| Country | Name | Website link | Direct data link |
-| --- | --- | --- | --- |
-| England	| UEC Daily SitRep – Web File Timeseries| https://www.england.nhs.uk/statistics/statistical-work-areas/uec-sitrep/urgent-and-emergency-care-daily-situation-reports-2022-23/ | The link changes, see the "UEC Daily SitRep – Web File Timeseries" link on the website. |
-| Wales	| Weekly ARI Hospital Dashboard Data | https://www2.nphs.wales.nhs.uk/CommunitySurveillanceDocs.nsf | [Direct download](https://www2.nphs.wales.nhs.uk/CommunitySurveillanceDocs.nsf/3dc04669c9e1eaa880257062003b246b/023d7e78efdbcc3980258917005779d4/$FILE/Weekly%20ARI%20hospital%20dashboard%20data%20-%20last%2090%20days.xlsx) |
+| Country | Name | Website link | Public dashboard Link | Direct data link |
+| --- | --- | --- | --- | --- |
+| England	| UEC Daily SitRep – Web File Timeseries| https://www.england.nhs.uk/statistics/statistical-work-areas/uec-sitrep/urgent-and-emergency-care-daily-situation-reports-2022-23/ | None | The link changes, see the "UEC Daily SitRep – Web File Timeseries" link on the website. |
+| Wales	| Weekly ARI Hospital Dashboard Data | https://www2.nphs.wales.nhs.uk/CommunitySurveillanceDocs.nsf | [Tableau](https://public.tableau.com/app/profile/public.health.wales.health.protection/viz/ARI-Hospitaladmissionsdashboard/ARIhospitaladmissionsdashboard?publish=yes) | [Direct download](https://www2.nphs.wales.nhs.uk/CommunitySurveillanceDocs.nsf/3dc04669c9e1eaa880257062003b246b/023d7e78efdbcc3980258917005779d4/$FILE/Weekly%20ARI%20hospital%20dashboard%20data%20-%20last%2090%20days.xlsx) |
 
 ## What does the cleaned data look like?
 - [England csv file](https://raw.githubusercontent.com/SallySamNIHR/Flu_data_upload/main/england_flu_data.csv)
