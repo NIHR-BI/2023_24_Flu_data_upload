@@ -15343,3 +15343,1921 @@ North West,RBV,The Christie NHS Foundation Trust,2023-01-08,CC flu beds,0
 North West,RET,The Walton Centre NHS Foundation Trust,2023-01-08,CC flu beds,0
 South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-08,CC flu beds,0
 North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-08,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,32
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,3
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-09,G&A flu beds,24
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-09,G&A flu beds,51
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,16
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-09,G&A flu beds,65
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,21
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,26
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-09,G&A flu beds,0
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-09,G&A flu beds,12
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-09,G&A flu beds,0
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-09,G&A flu beds,38
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-09,G&A flu beds,11
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-09,G&A flu beds,14
+London,R1H,Barts Health NHS Trust,2023-01-09,G&A flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-09,G&A flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-09,G&A flu beds,57
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-09,G&A flu beds,30
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-09,G&A flu beds,22
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-09,G&A flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,85
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-09,G&A flu beds,31
+London,R1K,London North West University Healthcare NHS Trust,2023-01-09,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-09,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-09,G&A flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,0
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,19
+London,RKE,Whittington Health NHS Trust,2023-01-09,G&A flu beds,7
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-09,G&A flu beds,0
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-09,G&A flu beds,26
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-09,G&A flu beds,26
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-09,G&A flu beds,81
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-09,G&A flu beds,1
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,36
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-09,G&A flu beds,35
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-09,G&A flu beds,2
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-09,G&A flu beds,38
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-09,G&A flu beds,13
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-09,G&A flu beds,35
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-09,G&A flu beds,302
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-09,G&A flu beds,105
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-09,G&A flu beds,23
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-09,G&A flu beds,97
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-09,G&A flu beds,57
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-09,G&A flu beds,36
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-09,G&A flu beds,63
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-09,G&A flu beds,7
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-09,G&A flu beds,40
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,8
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,20
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-09,G&A flu beds,47
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-09,G&A flu beds,81
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,30
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-09,G&A flu beds,11
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-09,G&A flu beds,34
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-09,G&A flu beds,64
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-09,G&A flu beds,48
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-09,G&A flu beds,15
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-09,G&A flu beds,85
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-09,G&A flu beds,37
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-09,G&A flu beds,60
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-09,G&A flu beds,100
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,75
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,25
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-09,G&A flu beds,174
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,48
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,52
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-09,G&A flu beds,4
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,34
+North West,RMC,Bolton NHS Foundation Trust,2023-01-09,G&A flu beds,83
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,3
+North West,RJN,East Cheshire NHS Trust,2023-01-09,G&A flu beds,14
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-09,G&A flu beds,63
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,40
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,2
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-09,G&A flu beds,173
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-09,G&A flu beds,11
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-09,G&A flu beds,10
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-09,G&A flu beds,32
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-09,G&A flu beds,76
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-09,G&A flu beds,3
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-09,G&A flu beds,29
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,68
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,17
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-09,G&A flu beds,24
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,27
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-09,G&A flu beds,17
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-09,G&A flu beds,11
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-09,G&A flu beds,17
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-09,G&A flu beds,22
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-09,G&A flu beds,41
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,17
+South East,R1F,Isle of Wight NHS Trust,2023-01-09,G&A flu beds,8
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-09,G&A flu beds,30
+South East,RPA,Medway NHS Foundation Trust,2023-01-09,G&A flu beds,12
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,23
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-09,G&A flu beds,46
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-09,G&A flu beds,54
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,35
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-09,G&A flu beds,23
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-09,G&A flu beds,22
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-09,G&A flu beds,58
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,37
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,31
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-09,G&A flu beds,22
+South West,RVJ,North Bristol NHS Trust,2023-01-09,G&A flu beds,17
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-09,G&A flu beds,12
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-09,G&A flu beds,13
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-09,G&A flu beds,25
+South West,RH5,Somerset NHS Foundation Trust,2023-01-09,G&A flu beds,22
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-09,G&A flu beds,11
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-09,G&A flu beds,19
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-09,G&A flu beds,16
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-09,G&A flu beds,32
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,16
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-09,G&A flu beds,45
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-09,G&A flu beds,12
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-09,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-09,G&A flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-09,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-09,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-09,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,4
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-09,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-09,CC flu beds,6
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,3
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-09,CC flu beds,4
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,2
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-09,CC flu beds,0
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-09,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-09,CC flu beds,0
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-09,CC flu beds,0
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-09,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-09,CC flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-09,CC flu beds,1
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-09,CC flu beds,6
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-09,CC flu beds,10
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-09,CC flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-09,CC flu beds,11
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-09,CC flu beds,2
+London,R1K,London North West University Healthcare NHS Trust,2023-01-09,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-09,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,3
+London,RKE,Whittington Health NHS Trust,2023-01-09,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-09,CC flu beds,0
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-09,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-09,CC flu beds,21
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-09,CC flu beds,3
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-09,CC flu beds,1
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-09,CC flu beds,0
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,3
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-09,CC flu beds,1
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-09,CC flu beds,10
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-09,CC flu beds,2
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-09,CC flu beds,1
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-09,CC flu beds,4
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-09,CC flu beds,21
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-09,CC flu beds,2
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-09,CC flu beds,0
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-09,CC flu beds,14
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-09,CC flu beds,4
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-09,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-09,CC flu beds,2
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-09,CC flu beds,4
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-09,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-09,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-09,CC flu beds,4
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-09,CC flu beds,6
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-09,CC flu beds,3
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-09,CC flu beds,6
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-09,CC flu beds,2
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-09,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,4
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-09,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-09,CC flu beds,1
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RMC,Bolton NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-09,CC flu beds,0
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-09,CC flu beds,5
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-09,CC flu beds,17
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-09,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-09,CC flu beds,0
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-09,CC flu beds,5
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-09,CC flu beds,3
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-09,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-09,CC flu beds,3
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-09,CC flu beds,1
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-09,CC flu beds,1
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-09,CC flu beds,0
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-09,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-09,CC flu beds,1
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-09,CC flu beds,0
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-09,CC flu beds,1
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+South East,R1F,Isle of Wight NHS Trust,2023-01-09,CC flu beds,1
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-09,CC flu beds,1
+South East,RPA,Medway NHS Foundation Trust,2023-01-09,CC flu beds,0
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,0
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-09,CC flu beds,8
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-09,CC flu beds,4
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-09,CC flu beds,1
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-09,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-09,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-09,CC flu beds,1
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,2
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-09,CC flu beds,1
+South West,RVJ,North Bristol NHS Trust,2023-01-09,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-09,CC flu beds,4
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-09,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-09,CC flu beds,3
+South West,RH5,Somerset NHS Foundation Trust,2023-01-09,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-09,CC flu beds,1
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-09,CC flu beds,3
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-09,CC flu beds,0
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-09,CC flu beds,1
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-09,CC flu beds,1
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-09,CC flu beds,2
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-09,CC flu beds,5
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-09,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-09,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-09,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-09,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-09,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,21
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,7
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-10,G&A flu beds,21
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-10,G&A flu beds,46
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,15
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-10,G&A flu beds,38
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,15
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,23
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-10,G&A flu beds,50
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-10,G&A flu beds,14
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-10,G&A flu beds,24
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-10,G&A flu beds,25
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-10,G&A flu beds,5
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-10,G&A flu beds,13
+London,R1H,Barts Health NHS Trust,2023-01-10,G&A flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-10,G&A flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-10,G&A flu beds,57
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-10,G&A flu beds,27
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-10,G&A flu beds,24
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-10,G&A flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,81
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-10,G&A flu beds,22
+London,R1K,London North West University Healthcare NHS Trust,2023-01-10,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-10,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-10,G&A flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,0
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,18
+London,RKE,Whittington Health NHS Trust,2023-01-10,G&A flu beds,7
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-10,G&A flu beds,1
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,11
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-10,G&A flu beds,17
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-10,G&A flu beds,24
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-10,G&A flu beds,80
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-10,G&A flu beds,5
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,19
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-10,G&A flu beds,36
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-10,G&A flu beds,0
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-10,G&A flu beds,30
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-10,G&A flu beds,16
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-10,G&A flu beds,32
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-10,G&A flu beds,289
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-10,G&A flu beds,76
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-10,G&A flu beds,24
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-10,G&A flu beds,94
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-10,G&A flu beds,43
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-10,G&A flu beds,34
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-10,G&A flu beds,56
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-10,G&A flu beds,7
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-10,G&A flu beds,41
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,7
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,12
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-10,G&A flu beds,43
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-10,G&A flu beds,83
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,27
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-10,G&A flu beds,12
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-10,G&A flu beds,28
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-10,G&A flu beds,57
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-10,G&A flu beds,36
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-10,G&A flu beds,14
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-10,G&A flu beds,94
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-10,G&A flu beds,30
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-10,G&A flu beds,64
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-10,G&A flu beds,87
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,76
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,26
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-10,G&A flu beds,161
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,38
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,55
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-10,G&A flu beds,8
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,36
+North West,RMC,Bolton NHS Foundation Trust,2023-01-10,G&A flu beds,85
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,2
+North West,RJN,East Cheshire NHS Trust,2023-01-10,G&A flu beds,8
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-10,G&A flu beds,61
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,35
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,2
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-10,G&A flu beds,165
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-10,G&A flu beds,10
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-10,G&A flu beds,11
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-10,G&A flu beds,26
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-10,G&A flu beds,72
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-10,G&A flu beds,3
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-10,G&A flu beds,22
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,64
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,14
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-10,G&A flu beds,25
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,25
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-10,G&A flu beds,17
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-10,G&A flu beds,10
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-10,G&A flu beds,18
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-10,G&A flu beds,17
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-10,G&A flu beds,31
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,19
+South East,R1F,Isle of Wight NHS Trust,2023-01-10,G&A flu beds,7
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-10,G&A flu beds,30
+South East,RPA,Medway NHS Foundation Trust,2023-01-10,G&A flu beds,10
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,14
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-10,G&A flu beds,19
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-10,G&A flu beds,43
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,16
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-10,G&A flu beds,16
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-10,G&A flu beds,16
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-10,G&A flu beds,52
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,35
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,30
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-10,G&A flu beds,16
+South West,RVJ,North Bristol NHS Trust,2023-01-10,G&A flu beds,12
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-10,G&A flu beds,20
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-10,G&A flu beds,10
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-10,G&A flu beds,28
+South West,RH5,Somerset NHS Foundation Trust,2023-01-10,G&A flu beds,19
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-10,G&A flu beds,13
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-10,G&A flu beds,20
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-10,G&A flu beds,16
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-10,G&A flu beds,14
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,7
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-10,G&A flu beds,35
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-10,G&A flu beds,15
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-10,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-10,G&A flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-10,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-10,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-10,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,3
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-10,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-10,CC flu beds,6
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-10,CC flu beds,4
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-10,CC flu beds,1
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-10,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-10,CC flu beds,1
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-10,CC flu beds,0
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-10,CC flu beds,1
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-10,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-10,CC flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-10,CC flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-10,CC flu beds,3
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-10,CC flu beds,9
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-10,CC flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-10,CC flu beds,9
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-10,CC flu beds,1
+London,R1K,London North West University Healthcare NHS Trust,2023-01-10,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-10,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,3
+London,RKE,Whittington Health NHS Trust,2023-01-10,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-10,CC flu beds,16
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-10,CC flu beds,2
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-10,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-10,CC flu beds,21
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-10,CC flu beds,2
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-10,CC flu beds,1
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-10,CC flu beds,0
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-10,CC flu beds,1
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-10,CC flu beds,9
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-10,CC flu beds,0
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-10,CC flu beds,1
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-10,CC flu beds,3
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-10,CC flu beds,20
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-10,CC flu beds,1
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-10,CC flu beds,0
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-10,CC flu beds,15
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-10,CC flu beds,4
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-10,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-10,CC flu beds,1
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-10,CC flu beds,1
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-10,CC flu beds,1
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-10,CC flu beds,1
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-10,CC flu beds,1
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-10,CC flu beds,4
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-10,CC flu beds,6
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-10,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,3
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-10,CC flu beds,1
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-10,CC flu beds,1
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RMC,Bolton NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-10,CC flu beds,1
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-10,CC flu beds,4
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-10,CC flu beds,17
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-10,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-10,CC flu beds,0
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-10,CC flu beds,7
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-10,CC flu beds,3
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-10,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-10,CC flu beds,2
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-10,CC flu beds,1
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-10,CC flu beds,0
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-10,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-10,CC flu beds,1
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-10,CC flu beds,0
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-10,CC flu beds,2
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,1
+South East,R1F,Isle of Wight NHS Trust,2023-01-10,CC flu beds,1
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-10,CC flu beds,1
+South East,RPA,Medway NHS Foundation Trust,2023-01-10,CC flu beds,1
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,1
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-10,CC flu beds,2
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-10,CC flu beds,4
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-10,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-10,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-10,CC flu beds,1
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-10,CC flu beds,2
+South West,RVJ,North Bristol NHS Trust,2023-01-10,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-10,CC flu beds,4
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-10,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-10,CC flu beds,3
+South West,RH5,Somerset NHS Foundation Trust,2023-01-10,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-10,CC flu beds,2
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-10,CC flu beds,3
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-10,CC flu beds,0
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-10,CC flu beds,1
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-10,CC flu beds,2
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-10,CC flu beds,2
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-10,CC flu beds,3
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-10,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-10,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-10,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-10,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-10,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,24
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,5
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-11,G&A flu beds,19
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-11,G&A flu beds,43
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,14
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-11,G&A flu beds,44
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,13
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,19
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-11,G&A flu beds,55
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-11,G&A flu beds,15
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-11,G&A flu beds,15
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-11,G&A flu beds,23
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-11,G&A flu beds,5
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-11,G&A flu beds,14
+London,R1H,Barts Health NHS Trust,2023-01-11,G&A flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-11,G&A flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-11,G&A flu beds,52
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-11,G&A flu beds,35
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-11,G&A flu beds,17
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-11,G&A flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,78
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-11,G&A flu beds,20
+London,R1K,London North West University Healthcare NHS Trust,2023-01-11,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-11,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-11,G&A flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,0
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,17
+London,RKE,Whittington Health NHS Trust,2023-01-11,G&A flu beds,7
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-11,G&A flu beds,1
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,9
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-11,G&A flu beds,13
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-11,G&A flu beds,18
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-11,G&A flu beds,66
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-11,G&A flu beds,2
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,14
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-11,G&A flu beds,29
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-11,G&A flu beds,0
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-11,G&A flu beds,24
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-11,G&A flu beds,13
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-11,G&A flu beds,24
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-11,G&A flu beds,264
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-11,G&A flu beds,75
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-11,G&A flu beds,16
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-11,G&A flu beds,77
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-11,G&A flu beds,38
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-11,G&A flu beds,37
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-11,G&A flu beds,47
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-11,G&A flu beds,4
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-11,G&A flu beds,40
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,14
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,24
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-11,G&A flu beds,40
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-11,G&A flu beds,69
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,22
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-11,G&A flu beds,10
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-11,G&A flu beds,27
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-11,G&A flu beds,54
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-11,G&A flu beds,30
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-11,G&A flu beds,9
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-11,G&A flu beds,69
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-11,G&A flu beds,25
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-11,G&A flu beds,54
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-11,G&A flu beds,81
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,66
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,23
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-11,G&A flu beds,126
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,33
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,49
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-11,G&A flu beds,6
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,22
+North West,RMC,Bolton NHS Foundation Trust,2023-01-11,G&A flu beds,80
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-11,G&A flu beds,4
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-11,G&A flu beds,60
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,31
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,2
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-11,G&A flu beds,163
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-11,G&A flu beds,56
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-11,G&A flu beds,8
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-11,G&A flu beds,21
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-11,G&A flu beds,70
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-11,G&A flu beds,2
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-11,G&A flu beds,21
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,68
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,12
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-11,G&A flu beds,23
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,7
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-11,G&A flu beds,17
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-11,G&A flu beds,8
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-11,G&A flu beds,12
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-11,G&A flu beds,5
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-11,G&A flu beds,27
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,16
+South East,R1F,Isle of Wight NHS Trust,2023-01-11,G&A flu beds,6
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-11,G&A flu beds,27
+South East,RPA,Medway NHS Foundation Trust,2023-01-11,G&A flu beds,11
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,14
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-11,G&A flu beds,19
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-11,G&A flu beds,44
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-11,G&A flu beds,16
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-11,G&A flu beds,12
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-11,G&A flu beds,38
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,28
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,27
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-11,G&A flu beds,9
+South West,RVJ,North Bristol NHS Trust,2023-01-11,G&A flu beds,10
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-11,G&A flu beds,23
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-11,G&A flu beds,8
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-11,G&A flu beds,25
+South West,RH5,Somerset NHS Foundation Trust,2023-01-11,G&A flu beds,19
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-11,G&A flu beds,8
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-11,G&A flu beds,19
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-11,G&A flu beds,11
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-11,G&A flu beds,13
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,3
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-11,G&A flu beds,30
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-11,G&A flu beds,13
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-11,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-11,G&A flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-11,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-11,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-11,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-11,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-11,CC flu beds,6
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-11,CC flu beds,0
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-11,CC flu beds,1
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-11,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-11,CC flu beds,1
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-11,CC flu beds,0
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-11,CC flu beds,1
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-11,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-11,CC flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-11,CC flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-11,CC flu beds,3
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-11,CC flu beds,6
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-11,CC flu beds,1
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-11,CC flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-11,CC flu beds,9
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-11,CC flu beds,2
+London,R1K,London North West University Healthcare NHS Trust,2023-01-11,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-11,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-11,CC flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+London,RKE,Whittington Health NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-11,CC flu beds,13
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-11,CC flu beds,2
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-11,CC flu beds,26
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,1
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-11,CC flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-11,CC flu beds,6
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-11,CC flu beds,1
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-11,CC flu beds,2
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-11,CC flu beds,20
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-11,CC flu beds,1
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-11,CC flu beds,1
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-11,CC flu beds,15
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-11,CC flu beds,3
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-11,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-11,CC flu beds,1
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-11,CC flu beds,1
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,1
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-11,CC flu beds,1
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-11,CC flu beds,2
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-11,CC flu beds,1
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-11,CC flu beds,3
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-11,CC flu beds,5
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-11,CC flu beds,2
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,3
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-11,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,1
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-11,CC flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-11,CC flu beds,1
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+North West,RMC,Bolton NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-11,CC flu beds,0
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-11,CC flu beds,3
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-11,CC flu beds,16
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-11,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-11,CC flu beds,0
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-11,CC flu beds,5
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-11,CC flu beds,2
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-11,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-11,CC flu beds,2
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-11,CC flu beds,1
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-11,CC flu beds,0
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-11,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-11,CC flu beds,0
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-11,CC flu beds,0
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-11,CC flu beds,1
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,1
+South East,R1F,Isle of Wight NHS Trust,2023-01-11,CC flu beds,0
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-11,CC flu beds,1
+South East,RPA,Medway NHS Foundation Trust,2023-01-11,CC flu beds,1
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,1
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-11,CC flu beds,2
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-11,CC flu beds,3
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-11,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-11,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-11,CC flu beds,1
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,2
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-11,CC flu beds,0
+South West,RVJ,North Bristol NHS Trust,2023-01-11,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-11,CC flu beds,3
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-11,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-11,CC flu beds,3
+South West,RH5,Somerset NHS Foundation Trust,2023-01-11,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-11,CC flu beds,1
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-11,CC flu beds,4
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-11,CC flu beds,1
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-11,CC flu beds,2
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-11,CC flu beds,1
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-11,CC flu beds,1
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-11,CC flu beds,6
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-11,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-11,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-11,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-11,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-11,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,25
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,6
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-12,G&A flu beds,22
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-12,G&A flu beds,29
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,18
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-12,G&A flu beds,44
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,8
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,13
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-12,G&A flu beds,50
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-12,G&A flu beds,11
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-12,G&A flu beds,12
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-12,G&A flu beds,20
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-12,G&A flu beds,5
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-12,G&A flu beds,12
+London,R1H,Barts Health NHS Trust,2023-01-12,G&A flu beds,9
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-12,G&A flu beds,52
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-12,G&A flu beds,56
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-12,G&A flu beds,21
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-12,G&A flu beds,17
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-12,G&A flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,77
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-12,G&A flu beds,18
+London,R1K,London North West University Healthcare NHS Trust,2023-01-12,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-12,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-12,G&A flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,23
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,14
+London,RKE,Whittington Health NHS Trust,2023-01-12,G&A flu beds,6
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-12,G&A flu beds,1
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,11
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-12,G&A flu beds,6
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-12,G&A flu beds,18
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-12,G&A flu beds,58
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-12,G&A flu beds,26
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,15
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-12,G&A flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-12,G&A flu beds,0
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-12,G&A flu beds,18
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-12,G&A flu beds,15
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-12,G&A flu beds,23
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-12,G&A flu beds,244
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-12,G&A flu beds,69
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-12,G&A flu beds,13
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-12,G&A flu beds,74
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-12,G&A flu beds,33
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-12,G&A flu beds,27
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-12,G&A flu beds,43
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-12,G&A flu beds,0
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-12,G&A flu beds,34
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,9
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,15
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-12,G&A flu beds,40
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-12,G&A flu beds,66
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,16
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-12,G&A flu beds,13
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-12,G&A flu beds,28
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-12,G&A flu beds,48
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-12,G&A flu beds,31
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-12,G&A flu beds,10
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-12,G&A flu beds,62
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-12,G&A flu beds,20
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-12,G&A flu beds,53
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-12,G&A flu beds,73
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-12,G&A flu beds,1
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,63
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,22
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-12,G&A flu beds,123
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,33
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,51
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-12,G&A flu beds,5
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,19
+North West,RMC,Bolton NHS Foundation Trust,2023-01-12,G&A flu beds,67
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,2
+North West,RJN,East Cheshire NHS Trust,2023-01-12,G&A flu beds,4
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-12,G&A flu beds,59
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,24
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,2
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-12,G&A flu beds,150
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-12,G&A flu beds,48
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-12,G&A flu beds,5
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-12,G&A flu beds,18
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-12,G&A flu beds,64
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-12,G&A flu beds,5
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-12,G&A flu beds,18
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,65
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,13
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-12,G&A flu beds,21
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,7
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-12,G&A flu beds,8
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-12,G&A flu beds,8
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-12,G&A flu beds,13
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-12,G&A flu beds,4
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-12,G&A flu beds,18
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,16
+South East,R1F,Isle of Wight NHS Trust,2023-01-12,G&A flu beds,5
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-12,G&A flu beds,21
+South East,RPA,Medway NHS Foundation Trust,2023-01-12,G&A flu beds,11
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,12
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-12,G&A flu beds,22
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-12,G&A flu beds,39
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,9
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-12,G&A flu beds,13
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-12,G&A flu beds,6
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-12,G&A flu beds,32
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,20
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,29
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-12,G&A flu beds,7
+South West,RVJ,North Bristol NHS Trust,2023-01-12,G&A flu beds,12
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-12,G&A flu beds,18
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-12,G&A flu beds,4
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-12,G&A flu beds,21
+South West,RH5,Somerset NHS Foundation Trust,2023-01-12,G&A flu beds,14
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-12,G&A flu beds,8
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-12,G&A flu beds,20
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-12,G&A flu beds,8
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-12,G&A flu beds,8
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,9
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-12,G&A flu beds,17
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-12,G&A flu beds,14
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-12,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-12,G&A flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-12,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-12,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-12,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-12,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-12,CC flu beds,5
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,2
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-12,CC flu beds,0
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,3
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-12,CC flu beds,1
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-12,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-12,CC flu beds,1
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-12,CC flu beds,1
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-12,CC flu beds,0
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-12,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-12,CC flu beds,0
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-12,CC flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-12,CC flu beds,3
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-12,CC flu beds,6
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-12,CC flu beds,1
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-12,CC flu beds,0
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-12,CC flu beds,8
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-12,CC flu beds,3
+London,R1K,London North West University Healthcare NHS Trust,2023-01-12,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-12,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-12,CC flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,3
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,2
+London,RKE,Whittington Health NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-12,CC flu beds,14
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-12,CC flu beds,19
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-12,CC flu beds,3
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-12,CC flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-12,CC flu beds,5
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-12,CC flu beds,1
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-12,CC flu beds,2
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-12,CC flu beds,16
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-12,CC flu beds,1
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-12,CC flu beds,1
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-12,CC flu beds,14
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-12,CC flu beds,2
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-12,CC flu beds,0
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-12,CC flu beds,4
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-12,CC flu beds,3
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-12,CC flu beds,2
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,3
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,3
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-12,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-12,CC flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-12,CC flu beds,2
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+North West,RMC,Bolton NHS Foundation Trust,2023-01-12,CC flu beds,1
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-12,CC flu beds,0
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-12,CC flu beds,3
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-12,CC flu beds,17
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-12,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-12,CC flu beds,0
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-12,CC flu beds,3
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-12,CC flu beds,2
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-12,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-12,CC flu beds,2
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-12,CC flu beds,1
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-12,CC flu beds,1
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-12,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-12,CC flu beds,0
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-12,CC flu beds,2
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-12,CC flu beds,1
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+South East,R1F,Isle of Wight NHS Trust,2023-01-12,CC flu beds,0
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-12,CC flu beds,1
+South East,RPA,Medway NHS Foundation Trust,2023-01-12,CC flu beds,1
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-12,CC flu beds,2
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-12,CC flu beds,3
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-12,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-12,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-12,CC flu beds,0
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,1
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-12,CC flu beds,0
+South West,RVJ,North Bristol NHS Trust,2023-01-12,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-12,CC flu beds,3
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-12,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-12,CC flu beds,3
+South West,RH5,Somerset NHS Foundation Trust,2023-01-12,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-12,CC flu beds,1
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-12,CC flu beds,3
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-12,CC flu beds,1
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-12,CC flu beds,2
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-12,CC flu beds,1
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-12,CC flu beds,0
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-12,CC flu beds,3
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-12,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-12,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-12,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-12,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-12,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,19
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,4
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-13,G&A flu beds,20
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-13,G&A flu beds,33
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,9
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-13,G&A flu beds,21
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,5
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,0
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-13,G&A flu beds,42
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-13,G&A flu beds,15
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-13,G&A flu beds,0
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-13,G&A flu beds,18
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-13,G&A flu beds,4
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-13,G&A flu beds,13
+London,R1H,Barts Health NHS Trust,2023-01-13,G&A flu beds,84
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-13,G&A flu beds,52
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-13,G&A flu beds,53
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-13,G&A flu beds,19
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-13,G&A flu beds,13
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-13,G&A flu beds,59
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,75
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-13,G&A flu beds,11
+London,R1K,London North West University Healthcare NHS Trust,2023-01-13,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-13,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-13,G&A flu beds,29
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,28
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,12
+London,RKE,Whittington Health NHS Trust,2023-01-13,G&A flu beds,1
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-13,G&A flu beds,1
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,9
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-13,G&A flu beds,4
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-13,G&A flu beds,9
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-13,G&A flu beds,54
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-13,G&A flu beds,25
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,13
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-13,G&A flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-13,G&A flu beds,0
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-13,G&A flu beds,18
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-13,G&A flu beds,17
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-13,G&A flu beds,23
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-13,G&A flu beds,226
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-13,G&A flu beds,67
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-13,G&A flu beds,13
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-13,G&A flu beds,66
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-13,G&A flu beds,27
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-13,G&A flu beds,24
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-13,G&A flu beds,42
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-13,G&A flu beds,8
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-13,G&A flu beds,34
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,9
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,19
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-13,G&A flu beds,35
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-13,G&A flu beds,60
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,11
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-13,G&A flu beds,13
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-13,G&A flu beds,22
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-13,G&A flu beds,46
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-13,G&A flu beds,27
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-13,G&A flu beds,5
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-13,G&A flu beds,18
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-13,G&A flu beds,21
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-13,G&A flu beds,55
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-13,G&A flu beds,65
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-13,G&A flu beds,1
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,57
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,13
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-13,G&A flu beds,141
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,24
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,52
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-13,G&A flu beds,5
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,19
+North West,RMC,Bolton NHS Foundation Trust,2023-01-13,G&A flu beds,58
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-13,G&A flu beds,2
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-13,G&A flu beds,59
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,24
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,4
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-13,G&A flu beds,140
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-13,G&A flu beds,46
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-13,G&A flu beds,4
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-13,G&A flu beds,19
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-13,G&A flu beds,58
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-13,G&A flu beds,7
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-13,G&A flu beds,18
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,53
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,10
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-13,G&A flu beds,20
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,6
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-13,G&A flu beds,8
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-13,G&A flu beds,8
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-13,G&A flu beds,12
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-13,G&A flu beds,6
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-13,G&A flu beds,21
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,11
+South East,R1F,Isle of Wight NHS Trust,2023-01-13,G&A flu beds,2
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-13,G&A flu beds,21
+South East,RPA,Medway NHS Foundation Trust,2023-01-13,G&A flu beds,9
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,10
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-13,G&A flu beds,18
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-13,G&A flu beds,36
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,4
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-13,G&A flu beds,14
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-13,G&A flu beds,6
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-13,G&A flu beds,24
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,19
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,29
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-13,G&A flu beds,3
+South West,RVJ,North Bristol NHS Trust,2023-01-13,G&A flu beds,9
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-13,G&A flu beds,14
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-13,G&A flu beds,4
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-13,G&A flu beds,20
+South West,RH5,Somerset NHS Foundation Trust,2023-01-13,G&A flu beds,13
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-13,G&A flu beds,6
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-13,G&A flu beds,17
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-13,G&A flu beds,8
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-13,G&A flu beds,31
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,6
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-13,G&A flu beds,15
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-13,G&A flu beds,12
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-13,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-13,G&A flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-13,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-13,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-13,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-13,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-13,CC flu beds,2
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-13,CC flu beds,0
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-13,CC flu beds,1
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-13,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-13,CC flu beds,0
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-13,CC flu beds,1
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-13,CC flu beds,0
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-13,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-13,CC flu beds,2
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-13,CC flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-13,CC flu beds,3
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-13,CC flu beds,6
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-13,CC flu beds,1
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-13,CC flu beds,8
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-13,CC flu beds,9
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-13,CC flu beds,1
+London,R1K,London North West University Healthcare NHS Trust,2023-01-13,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-13,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-13,CC flu beds,1
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,4
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,2
+London,RKE,Whittington Health NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-13,CC flu beds,13
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-13,CC flu beds,1
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-13,CC flu beds,10
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-13,CC flu beds,2
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-13,CC flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-13,CC flu beds,5
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-13,CC flu beds,2
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-13,CC flu beds,15
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-13,CC flu beds,1
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-13,CC flu beds,1
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-13,CC flu beds,13
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-13,CC flu beds,2
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-13,CC flu beds,0
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-13,CC flu beds,1
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-13,CC flu beds,1
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-13,CC flu beds,1
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-13,CC flu beds,1
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-13,CC flu beds,2
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-13,CC flu beds,2
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,3
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,4
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-13,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-13,CC flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-13,CC flu beds,2
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+North West,RMC,Bolton NHS Foundation Trust,2023-01-13,CC flu beds,1
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-13,CC flu beds,0
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-13,CC flu beds,3
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-13,CC flu beds,19
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-13,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-13,CC flu beds,1
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-13,CC flu beds,3
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-13,CC flu beds,2
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-13,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-13,CC flu beds,0
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-13,CC flu beds,2
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-13,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-13,CC flu beds,2
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-13,CC flu beds,1
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,R1F,Isle of Wight NHS Trust,2023-01-13,CC flu beds,0
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-13,CC flu beds,0
+South East,RPA,Medway NHS Foundation Trust,2023-01-13,CC flu beds,1
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-13,CC flu beds,0
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-13,CC flu beds,3
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-13,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-13,CC flu beds,0
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-13,CC flu beds,1
+South West,RVJ,North Bristol NHS Trust,2023-01-13,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-13,CC flu beds,3
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-13,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-13,CC flu beds,3
+South West,RH5,Somerset NHS Foundation Trust,2023-01-13,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-13,CC flu beds,1
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-13,CC flu beds,2
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-13,CC flu beds,1
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-13,CC flu beds,2
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-13,CC flu beds,0
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-13,CC flu beds,4
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-13,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-13,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-13,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-13,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-13,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,17
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,11
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-14,G&A flu beds,20
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-14,G&A flu beds,28
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,7
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-14,G&A flu beds,20
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,5
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,10
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-14,G&A flu beds,37
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-14,G&A flu beds,10
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-14,G&A flu beds,12
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-14,G&A flu beds,15
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-14,G&A flu beds,5
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-14,G&A flu beds,13
+London,R1H,Barts Health NHS Trust,2023-01-14,G&A flu beds,66
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-14,G&A flu beds,52
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-14,G&A flu beds,50
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-14,G&A flu beds,10
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-14,G&A flu beds,13
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-14,G&A flu beds,60
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,70
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-14,G&A flu beds,11
+London,R1K,London North West University Healthcare NHS Trust,2023-01-14,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-14,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-14,G&A flu beds,25
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,27
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,12
+London,RKE,Whittington Health NHS Trust,2023-01-14,G&A flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-14,G&A flu beds,0
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,9
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-14,G&A flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-14,G&A flu beds,9
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-14,G&A flu beds,46
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-14,G&A flu beds,25
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,14
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-14,G&A flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-14,G&A flu beds,0
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-14,G&A flu beds,10
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-14,G&A flu beds,13
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-14,G&A flu beds,16
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-14,G&A flu beds,209
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-14,G&A flu beds,60
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-14,G&A flu beds,12
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-14,G&A flu beds,62
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-14,G&A flu beds,22
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-14,G&A flu beds,21
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-14,G&A flu beds,42
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-14,G&A flu beds,7
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-14,G&A flu beds,34
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,7
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,13
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-14,G&A flu beds,30
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-14,G&A flu beds,53
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,10
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-14,G&A flu beds,10
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-14,G&A flu beds,27
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-14,G&A flu beds,38
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-14,G&A flu beds,22
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-14,G&A flu beds,7
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-14,G&A flu beds,14
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-14,G&A flu beds,20
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-14,G&A flu beds,54
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-14,G&A flu beds,63
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-14,G&A flu beds,1
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,55
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,14
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-14,G&A flu beds,135
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,15
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,44
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-14,G&A flu beds,4
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,16
+North West,RMC,Bolton NHS Foundation Trust,2023-01-14,G&A flu beds,53
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-14,G&A flu beds,1
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-14,G&A flu beds,46
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,24
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,7
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-14,G&A flu beds,128
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-14,G&A flu beds,7
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-14,G&A flu beds,3
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-14,G&A flu beds,13
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-14,G&A flu beds,58
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-14,G&A flu beds,6
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-14,G&A flu beds,20
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,50
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,8
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-14,G&A flu beds,14
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,5
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-14,G&A flu beds,7
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-14,G&A flu beds,7
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-14,G&A flu beds,9
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-14,G&A flu beds,10
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-14,G&A flu beds,21
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,15
+South East,R1F,Isle of Wight NHS Trust,2023-01-14,G&A flu beds,2
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-14,G&A flu beds,16
+South East,RPA,Medway NHS Foundation Trust,2023-01-14,G&A flu beds,8
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,9
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-14,G&A flu beds,12
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-14,G&A flu beds,46
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,3
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-14,G&A flu beds,12
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-14,G&A flu beds,5
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-14,G&A flu beds,20
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,16
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,27
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-14,G&A flu beds,2
+South West,RVJ,North Bristol NHS Trust,2023-01-14,G&A flu beds,7
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-14,G&A flu beds,15
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-14,G&A flu beds,4
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-14,G&A flu beds,18
+South West,RH5,Somerset NHS Foundation Trust,2023-01-14,G&A flu beds,14
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-14,G&A flu beds,6
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-14,G&A flu beds,16
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-14,G&A flu beds,9
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-14,G&A flu beds,27
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-14,G&A flu beds,13
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-14,G&A flu beds,9
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-14,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-14,G&A flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-14,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-14,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-14,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-14,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-14,CC flu beds,4
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-14,CC flu beds,0
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-14,CC flu beds,1
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-14,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-14,CC flu beds,1
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-14,CC flu beds,0
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-14,CC flu beds,0
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-14,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-14,CC flu beds,5
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-14,CC flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-14,CC flu beds,3
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-14,CC flu beds,3
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-14,CC flu beds,1
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-14,CC flu beds,8
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-14,CC flu beds,8
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-14,CC flu beds,1
+London,R1K,London North West University Healthcare NHS Trust,2023-01-14,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-14,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-14,CC flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,5
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,2
+London,RKE,Whittington Health NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-14,CC flu beds,0
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-14,CC flu beds,1
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-14,CC flu beds,17
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-14,CC flu beds,4
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-14,CC flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-14,CC flu beds,2
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-14,CC flu beds,2
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-14,CC flu beds,12
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-14,CC flu beds,1
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-14,CC flu beds,0
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-14,CC flu beds,12
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-14,CC flu beds,2
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-14,CC flu beds,0
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-14,CC flu beds,2
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,4
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,4
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-14,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-14,CC flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-14,CC flu beds,2
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+North West,RMC,Bolton NHS Foundation Trust,2023-01-14,CC flu beds,1
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-14,CC flu beds,0
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-14,CC flu beds,3
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,1
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-14,CC flu beds,19
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-14,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-14,CC flu beds,1
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-14,CC flu beds,3
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-14,CC flu beds,2
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-14,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-14,CC flu beds,0
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-14,CC flu beds,1
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-14,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-14,CC flu beds,1
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-14,CC flu beds,0
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-14,CC flu beds,1
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+South East,R1F,Isle of Wight NHS Trust,2023-01-14,CC flu beds,0
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-14,CC flu beds,0
+South East,RPA,Medway NHS Foundation Trust,2023-01-14,CC flu beds,1
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-14,CC flu beds,0
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-14,CC flu beds,3
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-14,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-14,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-14,CC flu beds,1
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-14,CC flu beds,0
+South West,RVJ,North Bristol NHS Trust,2023-01-14,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-14,CC flu beds,3
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-14,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-14,CC flu beds,2
+South West,RH5,Somerset NHS Foundation Trust,2023-01-14,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-14,CC flu beds,1
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-14,CC flu beds,2
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-14,CC flu beds,1
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-14,CC flu beds,2
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-14,CC flu beds,0
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-14,CC flu beds,6
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-14,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-14,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-14,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-14,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-14,CC flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,17
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,10
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-15,G&A flu beds,21
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-15,G&A flu beds,28
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,9
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-15,G&A flu beds,18
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,5
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,0
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-15,G&A flu beds,36
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-15,G&A flu beds,7
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-15,G&A flu beds,12
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-15,G&A flu beds,13
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-15,G&A flu beds,5
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-15,G&A flu beds,13
+London,R1H,Barts Health NHS Trust,2023-01-15,G&A flu beds,66
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-15,G&A flu beds,52
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-15,G&A flu beds,46
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-15,G&A flu beds,8
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-15,G&A flu beds,13
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-15,G&A flu beds,55
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,71
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-15,G&A flu beds,11
+London,R1K,London North West University Healthcare NHS Trust,2023-01-15,G&A flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-15,G&A flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-15,G&A flu beds,25
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,12
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,25
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,12
+London,RKE,Whittington Health NHS Trust,2023-01-15,G&A flu beds,2
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-15,G&A flu beds,0
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,7
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-15,G&A flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-15,G&A flu beds,6
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-15,G&A flu beds,39
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-15,G&A flu beds,26
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,13
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-15,G&A flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-15,G&A flu beds,0
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-15,G&A flu beds,10
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-15,G&A flu beds,6
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-15,G&A flu beds,14
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-15,G&A flu beds,207
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-15,G&A flu beds,60
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-15,G&A flu beds,12
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-15,G&A flu beds,62
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-15,G&A flu beds,14
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-15,G&A flu beds,21
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-15,G&A flu beds,39
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-15,G&A flu beds,6
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-15,G&A flu beds,34
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,7
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,14
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-15,G&A flu beds,32
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-15,G&A flu beds,52
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,9
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-15,G&A flu beds,10
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-15,G&A flu beds,22
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-15,G&A flu beds,38
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-15,G&A flu beds,16
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-15,G&A flu beds,3
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-15,G&A flu beds,13
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-15,G&A flu beds,20
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-15,G&A flu beds,49
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-15,G&A flu beds,59
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-15,G&A flu beds,3
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,54
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,10
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-15,G&A flu beds,125
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,15
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,40
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-15,G&A flu beds,2
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,13
+North West,RMC,Bolton NHS Foundation Trust,2023-01-15,G&A flu beds,47
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-15,G&A flu beds,1
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-15,G&A flu beds,43
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,21
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,1
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-15,G&A flu beds,130
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-15,G&A flu beds,7
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-15,G&A flu beds,2
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-15,G&A flu beds,11
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-15,G&A flu beds,58
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-15,G&A flu beds,6
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-15,G&A flu beds,13
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,47
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,7
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-15,G&A flu beds,12
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,5
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-15,G&A flu beds,14
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-15,G&A flu beds,6
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-15,G&A flu beds,7
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-15,G&A flu beds,8
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-15,G&A flu beds,21
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,9
+South East,R1F,Isle of Wight NHS Trust,2023-01-15,G&A flu beds,2
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-15,G&A flu beds,16
+South East,RPA,Medway NHS Foundation Trust,2023-01-15,G&A flu beds,6
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,8
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-15,G&A flu beds,12
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-15,G&A flu beds,47
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,2
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-15,G&A flu beds,12
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-15,G&A flu beds,4
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-15,G&A flu beds,19
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,16
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,26
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-15,G&A flu beds,2
+South West,RVJ,North Bristol NHS Trust,2023-01-15,G&A flu beds,6
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-15,G&A flu beds,14
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-15,G&A flu beds,3
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-15,G&A flu beds,18
+South West,RH5,Somerset NHS Foundation Trust,2023-01-15,G&A flu beds,13
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-15,G&A flu beds,5
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-15,G&A flu beds,17
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-15,G&A flu beds,7
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-15,G&A flu beds,27
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-15,G&A flu beds,12
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-15,G&A flu beds,9
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-15,G&A flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-15,G&A flu beds,2
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-15,G&A flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-15,G&A flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-15,G&A flu beds,0
+East of England,RC9,Bedfordshire Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+East of England,RGT,Cambridge University Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+East of England,RWH,East and North Hertfordshire NHS Trust,2023-01-15,CC flu beds,3
+East of England,RDE,East Suffolk and North Essex NHS Foundation Trust,2023-01-15,CC flu beds,4
+East of England,RGP,James Paget University Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+East of England,RAJ,Mid and South Essex NHS Foundation Trust,2023-01-15,CC flu beds,2
+East of England,RD8,Milton Keynes University Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+East of England,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+East of England,RGN,North West Anglia NHS Foundation Trust,2023-01-15,CC flu beds,1
+East of England,RQW,The Princess Alexandra Hospital NHS Trust,2023-01-15,CC flu beds,0
+East of England,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",2023-01-15,CC flu beds,1
+East of England,RWG,West Hertfordshire Teaching Hospitals NHS Trust,2023-01-15,CC flu beds,0
+East of England,RGR,West Suffolk NHS Foundation Trust,2023-01-15,CC flu beds,0
+London,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",2023-01-15,CC flu beds,1
+London,R1H,Barts Health NHS Trust,2023-01-15,CC flu beds,5
+London,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+London,RJ6,Croydon Health Services NHS Trust,2023-01-15,CC flu beds,0
+London,RVR,Epsom and St Helier University Hospitals NHS Trust,2023-01-15,CC flu beds,2
+London,RJ1,Guy's and St Thomas' NHS Foundation Trust,2023-01-15,CC flu beds,7
+London,RQX,Homerton Healthcare NHS Foundation Trust,2023-01-15,CC flu beds,1
+London,RYJ,Imperial College Healthcare NHS Trust,2023-01-15,CC flu beds,9
+London,RJZ,King's College Hospital NHS Foundation Trust,2023-01-15,CC flu beds,8
+London,RAX,Kingston Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+London,RJ2,Lewisham and Greenwich NHS Trust,2023-01-15,CC flu beds,1
+London,R1K,London North West University Healthcare NHS Trust,2023-01-15,CC flu beds,0
+London,RAP,North Middlesex University Hospital NHS Trust,2023-01-15,CC flu beds,0
+London,RAL,Royal Free London NHS Foundation Trust,2023-01-15,CC flu beds,0
+London,RJ7,St George's University Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+London,RAS,The Hillingdon Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,5
+London,RRV,University College London Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,2
+London,RKE,Whittington Health NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RQ3,Birmingham Women's and Children's NHS Foundation Trust,2023-01-15,CC flu beds,0
+Midlands,RFS,Chesterfield Royal Hospital NHS Foundation Trust,2023-01-15,CC flu beds,2
+Midlands,RLT,George Eliot Hospital NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RNQ,Kettering General Hospital NHS Foundation Trust,2023-01-15,CC flu beds,13
+Midlands,RNS,Northampton General Hospital NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RX1,Nottingham University Hospitals NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RXK,Sandwell and West Birmingham Hospitals NHS Trust,2023-01-15,CC flu beds,4
+Midlands,RK5,Sherwood Forest Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+Midlands,RJC,South Warwickshire NHS Foundation Trust,2023-01-15,CC flu beds,0
+Midlands,RNA,The Dudley Group NHS Foundation Trust,2023-01-15,CC flu beds,3
+Midlands,RL4,The Royal Wolverhampton NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RXW,The Shrewsbury and Telford Hospital NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RWD,United Lincolnshire Hospitals NHS Trust,2023-01-15,CC flu beds,2
+Midlands,RRK,University Hospitals Birmingham NHS Foundation Trust,2023-01-15,CC flu beds,12
+Midlands,RKB,University Hospitals Coventry and Warwickshire NHS Trust,2023-01-15,CC flu beds,2
+Midlands,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,2023-01-15,CC flu beds,0
+Midlands,RWE,University Hospitals of Leicester NHS Trust,2023-01-15,CC flu beds,12
+Midlands,RJE,University Hospitals of North Midlands NHS Trust,2023-01-15,CC flu beds,2
+Midlands,RBK,Walsall Healthcare NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RWP,Worcestershire Acute Hospitals NHS Trust,2023-01-15,CC flu beds,0
+Midlands,RLQ,Wye Valley NHS Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RCF,Airedale NHS Foundation Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RFF,Barnsley Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RAE,Bradford Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RWY,Calderdale and Huddersfield NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RXP,County Durham and Darlington NHS Foundation Trust,2023-01-15,CC flu beds,2
+North East and Yorkshire,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RR7,Gateshead Health NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RCD,Harrogate and District NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RWA,Hull University Teaching Hospitals NHS Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RR8,Leeds Teaching Hospitals NHS Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RXF,Mid Yorkshire Hospitals NHS Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RNN,North Cumbria Integrated Care NHS Foundation Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RVW,North Tees and Hartlepool NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RTF,Northumbria Healthcare NHS Foundation Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RCU,Sheffield Children's NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RTR,South Tees Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,5
+North East and Yorkshire,R0B,South Tyneside and Sunderland NHS Foundation Trust,2023-01-15,CC flu beds,2
+North East and Yorkshire,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+North East and Yorkshire,RFR,The Rotherham NHS Foundation Trust,2023-01-15,CC flu beds,0
+North East and Yorkshire,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+North West,RBS,Alder Hey Children's NHS Foundation Trust,2023-01-15,CC flu beds,2
+North West,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+North West,RMC,Bolton NHS Foundation Trust,2023-01-15,CC flu beds,1
+North West,RJR,Countess of Chester Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RJN,East Cheshire NHS Trust,2023-01-15,CC flu beds,0
+North West,RXR,East Lancashire Hospitals NHS Trust,2023-01-15,CC flu beds,3
+North West,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,1
+North West,REM,Liverpool University Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,R0A,Manchester University NHS Foundation Trust,2023-01-15,CC flu beds,17
+North West,RBT,Mid Cheshire Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RM3,Northern Care Alliance NHS Ft,2023-01-15,CC flu beds,1
+North West,RVY,Southport and Ormskirk Hospital NHS Trust,2023-01-15,CC flu beds,1
+North West,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,2023-01-15,CC flu beds,1
+North West,RWJ,Stockport NHS Foundation Trust,2023-01-15,CC flu beds,2
+North West,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,2023-01-15,CC flu beds,1
+North West,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,3
+North West,RBL,Wirral University Teaching Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",2023-01-15,CC flu beds,1
+South East,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+South East,RXQ,Buckinghamshire Healthcare NHS Trust,2023-01-15,CC flu beds,1
+South East,RN7,Dartford and Gravesham NHS Trust,2023-01-15,CC flu beds,0
+South East,RVV,East Kent Hospitals University NHS Foundation Trust,2023-01-15,CC flu beds,1
+South East,RXC,East Sussex Healthcare NHS Trust,2023-01-15,CC flu beds,0
+South East,RDU,Frimley Health NHS Foundation Trust,2023-01-15,CC flu beds,1
+South East,RN5,Hampshire Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,2
+South East,R1F,Isle of Wight NHS Trust,2023-01-15,CC flu beds,0
+South East,RWF,Maidstone and Tunbridge Wells NHS Trust,2023-01-15,CC flu beds,0
+South East,RPA,Medway NHS Foundation Trust,2023-01-15,CC flu beds,1
+South East,RTH,Oxford University Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+South East,RHU,Portsmouth Hospitals University National Health Service Trust,2023-01-15,CC flu beds,0
+South East,RHW,Royal Berkshire NHS Foundation Trust,2023-01-15,CC flu beds,2
+South East,RA2,Royal Surrey County Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+South East,RTP,Surrey and Sussex Healthcare NHS Trust,2023-01-15,CC flu beds,0
+South East,RHM,University Hospital Southampton NHS Foundation Trust,2023-01-15,CC flu beds,0
+South East,RYR,University Hospitals Sussex NHS Foundation Trust,2023-01-15,CC flu beds,1
+South West,RBD,Dorset County Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RTE,Gloucestershire Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RN3,Great Western Hospitals NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RVJ,North Bristol NHS Trust,2023-01-15,CC flu beds,0
+South West,REF,Royal Cornwall Hospitals NHS Trust,2023-01-15,CC flu beds,3
+South West,RD1,Royal United Hospitals Bath NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RNZ,Salisbury NHS Foundation Trust,2023-01-15,CC flu beds,2
+South West,RH5,Somerset NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RA9,Torbay and South Devon NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,2023-01-15,CC flu beds,2
+South West,R0D,University Hospitals Dorset NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RK9,University Hospitals Plymouth NHS Trust,2023-01-15,CC flu beds,2
+South West,RA4,Yeovil District Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+South West,RH8,Royal Devon University Healthcare NHS Foundation Trust,2023-01-15,CC flu beds,0
+East of England,RGM,Royal Papworth Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+London,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,2023-01-15,CC flu beds,6
+London,RP6,Moorfields Eye Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+London,RAN,Royal National Orthopaedic Hospital NHS Trust,2023-01-15,CC flu beds,0
+London,RPY,The Royal Marsden NHS Foundation Trust,2023-01-15,CC flu beds,0
+Midlands,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+Midlands,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,REP,Liverpool Women's NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RBV,The Christie NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,RET,The Walton Centre NHS Foundation Trust,2023-01-15,CC flu beds,0
+South East,RPC,Queen Victoria Hospital NHS Foundation Trust,2023-01-15,CC flu beds,0
+North West,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,2023-01-15,CC flu beds,0
