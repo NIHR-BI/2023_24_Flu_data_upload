@@ -5,8 +5,7 @@ on:
     branches:
       - master
   schedule:
-    ## no scedule for now
-    # - cron: "0 10 * * *"
+    - cron: "* * * * *"
     
   workflow_dispatch:
 
