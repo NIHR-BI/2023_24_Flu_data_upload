@@ -31,3 +31,7 @@ schedule:
 - The England website says that the data refreshes every Thursday at 9:30am. The trigger in GitHub is therefore set to 10:00am everyday, in case there are delays.
 - The Wales website says that the data is refreshed weekly but it is not clear when exactly this happens. The trigger in GitHub is therefore set to 10:00am everyday.
  
+
+## 2022/23
+
+- England: "Weekly updates will commence on Thursday 24 November 2022 and will continue every Thursday at 09:30 through the winter, with a final publication on Thursday 6 April 2023 covering the week ending Sunday 2 April 2023."
