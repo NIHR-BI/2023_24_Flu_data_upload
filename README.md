@@ -36,4 +36,4 @@ schedule:
 ## 2022/23
 
 - England: "Weekly updates will commence on Thursday 24 November 2022 and will continue every Thursday at 09:30 through the winter, with a final publication on Thursday 6 April 2023 covering the week ending Sunday 2 April 2023."
-- Wales: It looks like the last update will be 29/03/2023. It is unclear when data will be available for 2023/24.
+- Wales: As of 27/04/2023, the data will no longer be scraped from this repo.
