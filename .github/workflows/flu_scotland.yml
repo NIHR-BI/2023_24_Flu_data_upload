@@ -16,15 +16,24 @@ jobs:
       - name: 🍽️ Get working copy
         uses: actions/checkout@master
         with:
-          fetch-depth: 1                                                                 
+          fetch-depth: 1
+
+      - name: Install Google Chrome # Using shell script to install Google Chrome
+        run: |
+          chmod +x ./install_chrome.sh
+          ./install_chrome.sh
+
       - name: 🐍 Set up Python 3.8                               
         uses: actions/setup-python@v2                               
         with:                                 
-          python-version: '3.8'                                                   
+          python-version: '3.8'
+
       - name: 💿 Install Requirements                             
         run: pip install -r requirements.txt
+
       - name: 🍳 Update dataset
         run: python flu_scotland_data_download_and_clean.py
+
       - name: 🚀 Commit and push if it changed
         run: |
           git config user.name "${GITHUB_ACTOR}"
