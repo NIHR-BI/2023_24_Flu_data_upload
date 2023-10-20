@@ -20,11 +20,11 @@ def check_data_against_xlsx(xlsx_file, csv_file):
 def startWebDriver(directory_path):
     global driver
     options = Options()
-    options.add_argument('--headless')
-    # options.headless = True
-    options.add_argument('--disable-gpu')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--window-size=1920,1080')
+    # options.add_argument('--headless')
+    # # options.headless = True
+    # options.add_argument('--disable-gpu')
+    # options.add_argument('--no-sandbox')
+    # options.add_argument('--window-size=1920,1080')
 
     options.add_experimental_option("prefs", { \
         'download.default_directory': directory_path,
