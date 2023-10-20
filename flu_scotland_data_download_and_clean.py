@@ -17,7 +17,7 @@ def check_data_against_xlsx(xlsx_file, csv_file):
     return excel, csv
    
     
-def startWebDriver():
+def startWebDriver(directory_path):
     global driver
     options = Options()
     options.add_argument('--headless')
@@ -25,6 +25,12 @@ def startWebDriver():
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
     options.add_argument('--window-size=1920,1080')
+
+    options.add_experimental_option("prefs", { \
+        'download.default_directory': directory_path,
+        'download.prompt_for_download': False,
+        'download.directory_upgrade': True,
+    })
     driver = webdriver.Chrome(options=options)
     
     
@@ -35,17 +41,8 @@ def enable_download_in_headless_chrome(driver, download_dir):
     command_result = driver.execute("send_command", params)
 
 def download_cases():
-    expected_download = os.getcwd()
-    opt = Options()
-    opt.add_experimental_option("prefs", { \
-        'download.default_directory': expected_download,
-        'download.prompt_for_download': False,
-        'download.directory_upgrade': True,
-    })
-    # opt.add_argument('--headless')
-    opt.add_argument('--window-size=1920,1080');
-
-    startWebDriver()
+    directory_path = os.getcwd()
+    startWebDriver(directory_path)
     driver.get('https://scotland.shinyapps.io/phs-respiratory-covid-19/')
     time.sleep(7)
     # # click download data
@@ -67,7 +64,7 @@ def download_cases():
     instances = driver.window_handles
     driver.switch_to.window(instances[0]) # this is the new browser
     #this below function below does all the trick
-    enable_download_in_headless_chrome(driver, expected_download)
+    enable_download_in_headless_chrome(driver, directory_path)
     download_data_button.click()
     
 if __name__ == '__main__':
