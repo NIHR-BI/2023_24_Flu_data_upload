@@ -66,7 +66,9 @@ def enable_download_in_headless_chrome(driver, download_dir):
 
 def download_cases():
     directory_path = os.getcwd()
-    print(directory_path)
+    with open('directory_path.txt', 'w+') as file:
+        file.write(directory_path)
+        
     startWebDriver(directory_path)
     driver.get('https://scotland.shinyapps.io/phs-respiratory-covid-19/')
     time.sleep(7)
@@ -87,7 +89,9 @@ def download_cases():
     
 
     instances = driver.window_handles
-    print(instances)
+    with open('instances.txt', 'w+') as file:
+        file.write(instances)
+    
     driver.switch_to.window(instances[0]) # this is the new browser
     #this below function below does all the trick
     enable_download_in_headless_chrome(driver, directory_path)
