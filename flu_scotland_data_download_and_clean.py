@@ -28,17 +28,24 @@ def startWebDriver():
     driver = webdriver.Chrome(options=options)
     
     
-def enable_download_in_headless_chrome(browser, download_dir):
-    #add missing support for chrome "send_command"  to selenium webdriver
-    browser.command_executor._commands["send_command"] = ("POST", '/session/$sessionId/chromium/send_command')
-
+def enable_download_in_headless_chrome(driver, download_dir):
+    # add missing support for chrome "send_command"  to selenium webdriver
+    driver.command_executor._commands["send_command"] = ("POST",'/session/$sessionId/chromium/send_command')
     params = {'cmd': 'Page.setDownloadBehavior', 'params': {'behavior': 'allow', 'downloadPath': download_dir}}
-    browser.execute("send_command", params)
+    command_result = driver.execute("send_command", params)
 
+def download_cases():
+    expected_download = os.getcwd()
+    opt = Options()
+    opt.add_experimental_option("prefs", { \
+        'download.default_directory': expected_download,
+        'download.prompt_for_download': False,
+        'download.directory_upgrade': True,
+    })
+    # opt.add_argument('--headless')
+    opt.add_argument('--window-size=1920,1080');
 
-def run_test_selenium_click():
     startWebDriver()
-    enable_download_in_headless_chrome(driver, os.getcwd())
     driver.get('https://scotland.shinyapps.io/phs-respiratory-covid-19/')
     time.sleep(7)
     # # click download data
@@ -55,14 +62,20 @@ def run_test_selenium_click():
     
     # # click download data. the first one saves historic radio button
     download_data_button = driver.find_element('xpath', '//*[@id="data_download_output"]')
-    download_data_button.click()
-    driver.quit()
     
+
+    instances = driver.window_handles
+    driver.switch_to.window(instances[0]) # this is the new browser
+    #this below function below does all the trick
+    enable_download_in_headless_chrome(driver, expected_download)
+    download_data_button.click()
     
 if __name__ == '__main__':
     # download data
     
-    data = pd.read_csv('https://www.opendata.nhs.scot/datastore/dump/0cfcbfb1-d659-412f-b699-cddd610679d2?bom=True')
-    data.to_csv('Scotland Respiratory by Health Board.csv', index=False)
+    # data = pd.read_csv('https://www.opendata.nhs.scot/datastore/dump/0cfcbfb1-d659-412f-b699-cddd610679d2?bom=True')
+    # data.to_csv('Scotland Respiratory by Health Board.csv', index=False)
 
-    run_test_selenium_click()
+    # run_test_selenium_click()
+    
+    download_cases()
