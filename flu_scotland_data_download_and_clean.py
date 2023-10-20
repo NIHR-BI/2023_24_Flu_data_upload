@@ -57,14 +57,20 @@ def startWebDriver(directory_path):
     driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
     
     
-    
 def enable_download_in_headless_chrome(driver, download_dir):
     # add missing support for chrome "send_command"  to selenium webdriver
     driver.command_executor._commands["send_command"] = ("POST",'/session/$sessionId/chromium/send_command')
     params = {'cmd': 'Page.setDownloadBehavior', 'params': {'behavior': 'allow', 'downloadPath': download_dir}}
     command_result = driver.execute("send_command", params)
 
-def download_cases():
+    
+if __name__ == '__main__':
+    # download data
+    
+    data = pd.read_csv('https://www.opendata.nhs.scot/datastore/dump/0cfcbfb1-d659-412f-b699-cddd610679d2?bom=True')
+    data.to_csv('Scotland Respiratory by Health Board.csv', index=False)
+
+    
     directory_path = os.getcwd()
     with open('directory_path.txt', 'w+') as file:
         file.write(directory_path)
@@ -96,12 +102,4 @@ def download_cases():
     #this below function below does all the trick
     enable_download_in_headless_chrome(driver, directory_path)
     download_data_button.click()
-    
-if __name__ == '__main__':
-    # download data
-    
-    # data = pd.read_csv('https://www.opendata.nhs.scot/datastore/dump/0cfcbfb1-d659-412f-b699-cddd610679d2?bom=True')
-    # data.to_csv('Scotland Respiratory by Health Board.csv', index=False)
 
-    
-    download_cases()
