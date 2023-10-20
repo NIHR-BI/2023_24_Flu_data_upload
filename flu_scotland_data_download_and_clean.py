@@ -90,7 +90,7 @@ def download_cases():
 
     instances = driver.window_handles
     with open('instances.txt', 'w+') as file:
-        file.write(instances)
+        file.write(', '.join(instances))
     
     driver.switch_to.window(instances[0]) # this is the new browser
     #this below function below does all the trick
@@ -103,6 +103,5 @@ if __name__ == '__main__':
     # data = pd.read_csv('https://www.opendata.nhs.scot/datastore/dump/0cfcbfb1-d659-412f-b699-cddd610679d2?bom=True')
     # data.to_csv('Scotland Respiratory by Health Board.csv', index=False)
 
-    # run_test_selenium_click()
     
     download_cases()
