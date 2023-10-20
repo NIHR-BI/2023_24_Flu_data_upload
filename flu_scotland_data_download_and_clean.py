@@ -24,7 +24,6 @@ def startWebDriver(directory_path):
     global driver
     options = Options()
     options.add_argument('--headless')
-    # options.headless = True
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
     options.add_argument('--window-size=1920,1080')
@@ -100,6 +99,10 @@ if __name__ == '__main__':
     
     driver.switch_to.window(instances[0]) # this is the new browser
     #this below function below does all the trick
-    enable_download_in_headless_chrome(driver, directory_path)
+    # enable_download_in_headless_chrome(driver, directory_path)
+    driver.command_executor._commands["send_command"] = ("POST",'/session/$sessionId/chromium/send_command')
+    params = {'cmd': 'Page.setDownloadBehavior', 'params': {'behavior': 'allow', 'downloadPath': directory_path}}
+    command_result = driver.execute("send_command", params)
+
     download_data_button.click()
 
