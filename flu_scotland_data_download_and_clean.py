@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import time
 from selenium import webdriver
@@ -20,13 +21,24 @@ def startWebDriver():
     global driver
     options = Options()
     options.add_argument('--headless')
+    # options.headless = True
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
     options.add_argument('--window-size=1920,1080')
     driver = webdriver.Chrome(options=options)
+    
+    
+def enable_download_in_headless_chrome(browser, download_dir):
+    #add missing support for chrome "send_command"  to selenium webdriver
+    browser.command_executor._commands["send_command"] = ("POST", '/session/$sessionId/chromium/send_command')
+
+    params = {'cmd': 'Page.setDownloadBehavior', 'params': {'behavior': 'allow', 'downloadPath': download_dir}}
+    browser.execute("send_command", params)
+
 
 def run_test_selenium_click():
     startWebDriver()
+    enable_download_in_headless_chrome(driver, os.getcwd())
     driver.get('https://scotland.shinyapps.io/phs-respiratory-covid-19/')
     time.sleep(7)
     # # click download data
@@ -46,7 +58,6 @@ def run_test_selenium_click():
     download_data_button.click()
     driver.quit()
     
-
     
 if __name__ == '__main__':
     # download data
